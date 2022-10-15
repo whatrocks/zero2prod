@@ -1,4 +1,5 @@
 # zero2prod
+[![Rust](https://github.com/whatrocks/zero2prod/actions/workflows/general.yml/badge.svg)](https://github.com/whatrocks/zero2prod/actions/workflows/general.yml) [![Security audit](https://github.com/whatrocks/zero2prod/actions/workflows/scheduled-audit.yml/badge.svg)](https://github.com/whatrocks/zero2prod/actions/workflows/scheduled-audit.yml)
 
 project from book "zero to production in rust"
 
