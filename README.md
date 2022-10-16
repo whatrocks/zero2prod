@@ -17,4 +17,7 @@ cargo fmt -- --check
 
 # check for known security issues
 cargo audit
+
+# expand macros
+cargo +nightly expand
 ```
